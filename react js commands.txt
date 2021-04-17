@@ -1,0 +1,12 @@
+**Command to create react app **
+npx create-react-app one-helloworld
+
+**Command to start the deployment server **
+npm start
+
+
+You can now view one-helloworld in the browser.  
+
+  Local:            http://localhost:3000        
+  On Your Network:  http://192.168.55.103:3000
+
